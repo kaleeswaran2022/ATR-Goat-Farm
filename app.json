@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ATR Farm",
+    "slug": "snack-86eb8eff-cc38-44c4-b062-9b8cf60a472f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.kaleeswaran.snack86eb8effcc3844c4b0629b8cf60a472f"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    }
+  }
+}
